@@ -1,4 +1,4 @@
-h3 align="center">A passionate Backend developer.</h3>
+<h3 align="center">A passionate Backend developer.</h3>
 
 - 🔭 I’m currently working on [Heroic Studios](https://discord.com/invite/XMZuPWkjzE)
 
