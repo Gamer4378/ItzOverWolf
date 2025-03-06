@@ -1,4 +1,4 @@
-<h3 align="center">Founder of Heroic Studios</h3>
+# Founder of Heroic Studios
 
 - 🔭 I’m currently working on [Heroic Studios](https://discord.com/invite/XMZuPWkjzE)
 
